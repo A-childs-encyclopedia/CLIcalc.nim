@@ -1,7 +1,7 @@
 # CLIcalc.nim
 A command-line calculator in nim. [(reimplementation of CLIcalc.jl)](https://github.com/A-childs-encyclopedia/CLIcalc.jl/)
 
-# Usage instructions
+# Usage instructions 
 1. Enter a function <br/>
    1a. mul = Multiplies x and y <br/>
    1b. sub = Subtracts y from x <br/>
@@ -13,7 +13,7 @@ A command-line calculator in nim. [(reimplementation of CLIcalc.jl)](https://git
 
 # Installation instructions on Linux
 1. Download [latest release](https://github.com/A-childs-encyclopedia/CLIcalc.nim/releases)
-2. Run `./CLIcalc` in download directory
+2. Run `./CLIcalc` in the directory where the latest release is downloaded
 
 # Installation instructions on Windows/Mac
 1. [Install nim](https://nim-lang.org/install.html)
