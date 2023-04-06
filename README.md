@@ -17,7 +17,7 @@ A command-line calculator in nim. [(reimplementation of CLIcalc.jl)](https://git
 
 # Installation instructions on Windows/Mac
 1. [Install nim](https://nim-lang.org/install.html)
-2. Run `git clone https://github.com/A-childs-encyclopedia/CLIcalc.nim`
+2. Run `git clone https://github.com/A-childs-encyclopedia/CLIcalc.nim.git`
 3. Run `cd CLIcalc.nim`
 4. Run `nimble build -d:release`
 5. <br/>
