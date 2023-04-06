@@ -12,8 +12,8 @@ A command-line calculator in nim. [(reimplementation of CLIcalc.jl)](https://git
 3. When you have finished using the program, use the exit function
 
 # Installation instructions on Linux
-1. Download latest release
-2. Run ./CLIcalc in download directory
+1. Download [latest release](https://github.com/A-childs-encyclopedia/CLIcalc.nim/releases)
+2. Run `./CLIcalc` in download directory
 
 # Installation instructions on Windows/Mac
 1. [Install nim](https://nim-lang.org/install.html)
