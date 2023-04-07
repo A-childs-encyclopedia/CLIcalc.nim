@@ -3,11 +3,16 @@ A command-line calculator in nim. [(reimplementation of CLIcalc.jl)](https://git
 
 # Usage instructions 
 1. Enter a function <br/>
-   1a. mul = Multiplies x and y <br/>
-   1b. sub = Subtracts y from x <br/>
-   1c. add = Adds x and y <br/>
-   1d. div = Divides x by y (result will be a float) <br/>
-   1e. exit = Exits program <br/>
+   1a. mul (multiplication)<br/>
+   1b. sub (subtraction)<br/>
+   1c. add (addition)<br/>
+   1d. div (division)<br/>
+   1e. pow (power)<br/>
+   1f. mod (modulo)<br/>
+   1g. hcf (greatest common divisor)<br/>
+   1h. sqr (square root)<br/>
+   1i. tru (truncate)<br/>
+   1j. exit (exits program)<br/>
 2. When prompted, supply an **integer** value for x and y
 3. When you have finished using the program, use the exit function
 
