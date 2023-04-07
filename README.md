@@ -13,7 +13,7 @@ A command-line calculator in nim. [(reimplementation of CLIcalc.jl)](https://git
    1h. sqr (square root)<br/>
    1i. tru (truncate)<br/>
    1j. exit (exits program)<br/>
-2. When prompted, supply an **integer** value for x and y
+2. When prompted, supply an **integer** value for x and/or y
 3. When you have finished using the program, use the exit function
 
 # Installation instructions on Linux
