@@ -18,7 +18,7 @@ when isMainModule:
   proc addxy(x: int64, y: int64): int64 =
     return x + y
 
-  echo("Hi, what function would you like to use?\n(mul, sub, add, div, exit)")
+  echo("Hi, what function would you like to use?\n(mul, sub, add, div, pow, mod, hcf, sqr, tru exit)")
   var fun: string = readLine(stdin)
   if (fun == "add"):
     stdout.write("x: ")
