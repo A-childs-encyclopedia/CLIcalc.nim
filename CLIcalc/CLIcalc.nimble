@@ -1,6 +1,6 @@
 # Package
 
-version       = "1.0"
+version       = "2.0"
 author        = "A-childs-encyclopedia"
 description   = "A command-line calculator in nim. (reimplementation of CLIcalc.jl)"
 license       = "GPL-3.0-or-later"
