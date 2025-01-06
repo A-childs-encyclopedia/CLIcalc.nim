@@ -21,12 +21,14 @@ A command-line calculator in nim. [(reimplementation of CLIcalc.jl)](https://git
 2. Run `./CLIcalc` in the directory where the latest release is downloaded
 
 # Installation instructions on Windows/Mac
+1. Download [latest release](https://github.com/A-childs-encyclopedia/CLIcalc.nim/releases)
+2. Run `.\CLIcalc` in the directory where the latest release is downloaded
+   
+# Installation instructions on Mac
 1. [Install nim](https://nim-lang.org/install.html)
 2. Run `git clone https://github.com/A-childs-encyclopedia/CLIcalc.nim.git`
 3. Run `cd CLIcalc.nim`
 4. Run `nimble build -d:release`
-5. <br/>
-   5a. On Windows, run `.\CLIcalc` <br/>
-   5b. On Mac, run `./CLIcalc`
+5. Run `./CLIcalc`
 
 ## PRs are welcome :)
